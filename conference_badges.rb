@@ -1,5 +1,4 @@
 # Write your code here.
-
 def badge_maker(name)
   return "Hello, my name is #{name}."
 end
@@ -32,3 +31,4 @@ def printer(badge)
     puts id 
   end
 end 
+
